@@ -43,9 +43,6 @@ plot_df =
   )
 ```
 
-```{r chuntk_histogram}
-ggplot(plot_df, aes(x = x, y = y)) + geom_point()
-```
 
 ## Plot from LA
 
