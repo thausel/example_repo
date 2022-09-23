@@ -29,7 +29,7 @@ length(samp)
 
 # Section 2
 
-I can take the mean of the sample, too! The mean is -0.012.
+I can take the mean of the sample, too! The mean is 0.186.
 
 # Section 3
 
